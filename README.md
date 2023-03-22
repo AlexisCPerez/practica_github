@@ -1,2 +1,2 @@
 # practica_github
-Alexis Perez
+Alexis
